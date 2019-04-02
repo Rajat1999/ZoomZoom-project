@@ -1,2 +1,2 @@
 # ZoomZoom-project
-A simple web template made by using SASS.
+**A simple web page made by using SASS.**
